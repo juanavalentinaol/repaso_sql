@@ -1,0 +1,21 @@
+id_venta,producto,categoria,precio_unitario,cantidad,fecha,pais
+1,Laptop Lenovo IdeaPad 5,Laptops,750,3,2026-01-08,Colombia
+2,iPhone 15,Smartphones,899,5,2026-01-12,México
+3,Mouse Logitech M185,Accesorios,18.5,40,2026-01-15,Colombia
+4,Samsung Galaxy S24,Smartphones,799,4,2026-01-20,Chile
+5,Audífonos Sony WH-1000XM5,Audio,349,6,2026-02-02,Argentina
+6,iPad Air,Tablets,599,3,2026-02-07,Perú
+7,Teclado Mecánico Redragon,Accesorios,45,25,2026-02-14,México
+8,MacBook Air M3,Laptops,1199,2,2026-02-21,Chile
+9,Mouse Logitech M185,Accesorios,18.5,30,2026-03-03,Perú
+10,Samsung Galaxy Tab S9,Tablets,649,2,2026-03-09,Colombia
+11,JBL Flip 6,Audio,129,12,2026-03-15,Colombia
+12,iPhone 15,Smartphones,899,7,2026-03-22,Argentina
+13,Laptop HP Pavilion 15,Laptops,680,4,2026-04-01,México
+14,Cable USB-C 2m,Accesorios,9.9,80,2026-04-05,Chile
+15,Xiaomi Redmi Note 13,Smartphones,249,15,2026-04-11,Perú
+16,Audífonos Sony WH-1000XM5,Audio,349,3,2026-04-18,Colombia
+17,MacBook Air M3,Laptops,1199,3,2026-05-02,México
+18,iPad Air,Tablets,599,5,2026-05-10,Argentina
+19,Teclado Mecánico Redragon,Accesorios,45,18,2026-05-19,Colombia
+20,Samsung Galaxy S24,Smartphones,799,6,2026-06-03,Colombia
